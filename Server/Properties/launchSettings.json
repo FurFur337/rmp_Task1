@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Run Server": {
+      "commandName": "Executable",
+      "executablePath": "C:\\GTA\\RAGEMP\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\GTA\\RAGEMP\\server-files"
+    }
+  }
+}
